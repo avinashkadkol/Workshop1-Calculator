@@ -1,0 +1,1 @@
+Add a text file with the name NewFile.txt to the directory of your local repository and create an appropriate commit.
